@@ -1,0 +1,37 @@
+C:\Source\Farseer Engine\Farseer Physics Engine 3.3.1 Samples XNA\Farseer Samples MonoGame\bin\WindowsGL\Debug\Content\Common\arrow.xnb
+C:\Source\Farseer Engine\Farseer Physics Engine 3.3.1 Samples XNA\Farseer Samples MonoGame\bin\WindowsGL\Debug\Content\Common\buttons.xnb
+C:\Source\Farseer Engine\Farseer Physics Engine 3.3.1 Samples XNA\Farseer Samples MonoGame\bin\WindowsGL\Debug\Content\Common\cursor.xnb
+C:\Source\Farseer Engine\Farseer Physics Engine 3.3.1 Samples XNA\Farseer Samples MonoGame\bin\WindowsGL\Debug\Content\Common\gradient.xnb
+C:\Source\Farseer Engine\Farseer Physics Engine 3.3.1 Samples XNA\Farseer Samples MonoGame\bin\WindowsGL\Debug\Content\Common\logo.xnb
+C:\Source\Farseer Engine\Farseer Physics Engine 3.3.1 Samples XNA\Farseer Samples MonoGame\bin\WindowsGL\Debug\Content\Common\popup.xnb
+C:\Source\Farseer Engine\Farseer Physics Engine 3.3.1 Samples XNA\Farseer Samples MonoGame\bin\WindowsGL\Debug\Content\Common\slider.xnb
+C:\Source\Farseer Engine\Farseer Physics Engine 3.3.1 Samples XNA\Farseer Samples MonoGame\bin\WindowsGL\Debug\Content\Common\socket.xnb
+C:\Source\Farseer Engine\Farseer Physics Engine 3.3.1 Samples XNA\Farseer Samples MonoGame\bin\WindowsGL\Debug\Content\Common\stick.xnb
+C:\Source\Farseer Engine\Farseer Physics Engine 3.3.1 Samples XNA\Farseer Samples MonoGame\bin\WindowsGL\Debug\Content\Fonts\detailsFont.xnb
+C:\Source\Farseer Engine\Farseer Physics Engine 3.3.1 Samples XNA\Farseer Samples MonoGame\bin\WindowsGL\Debug\Content\Fonts\frameRateCounterFont.xnb
+C:\Source\Farseer Engine\Farseer Physics Engine 3.3.1 Samples XNA\Farseer Samples MonoGame\bin\WindowsGL\Debug\Content\Fonts\menufont.xnb
+C:\Source\Farseer Engine\Farseer Physics Engine 3.3.1 Samples XNA\Farseer Samples MonoGame\bin\WindowsGL\Debug\Content\Materials\blank.xnb
+C:\Source\Farseer Engine\Farseer Physics Engine 3.3.1 Samples XNA\Farseer Samples MonoGame\bin\WindowsGL\Debug\Content\Materials\dots.xnb
+C:\Source\Farseer Engine\Farseer Physics Engine 3.3.1 Samples XNA\Farseer Samples MonoGame\bin\WindowsGL\Debug\Content\Materials\pavement.xnb
+C:\Source\Farseer Engine\Farseer Physics Engine 3.3.1 Samples XNA\Farseer Samples MonoGame\bin\WindowsGL\Debug\Content\Materials\squares.xnb
+C:\Source\Farseer Engine\Farseer Physics Engine 3.3.1 Samples XNA\Farseer Samples MonoGame\bin\WindowsGL\Debug\Content\Materials\waves.xnb
+C:\Source\Farseer Engine\Farseer Physics Engine 3.3.1 Samples XNA\Farseer Samples MonoGame\bin\WindowsGL\Debug\Content\Samples\alphabet.xnb
+C:\Source\Farseer Engine\Farseer Physics Engine 3.3.1 Samples XNA\Farseer Samples MonoGame\bin\WindowsGL\Debug\Content\Samples\car.xnb
+C:\Source\Farseer Engine\Farseer Physics Engine 3.3.1 Samples XNA\Farseer Samples MonoGame\bin\WindowsGL\Debug\Content\Samples\goo.xnb
+C:\Source\Farseer Engine\Farseer Physics Engine 3.3.1 Samples XNA\Farseer Samples MonoGame\bin\WindowsGL\Debug\Content\Samples\link.xnb
+C:\Source\Farseer Engine\Farseer Physics Engine 3.3.1 Samples XNA\Farseer Samples MonoGame\bin\WindowsGL\Debug\Content\Samples\object.xnb
+C:\Source\Farseer Engine\Farseer Physics Engine 3.3.1 Samples XNA\Farseer Samples MonoGame\bin\WindowsGL\Debug\Content\Samples\wheel.xnb
+C:\Source\Farseer Engine\Farseer Physics Engine 3.3.1 Samples XNA\Farseer Samples MonoGame\bin\WindowsGL\Debug\Content\Fonts\font.xnb
+C:\Source\Farseer Engine\Farseer Physics Engine 3.3.1 Samples XNA\Farseer Samples MonoGame\bin\WindowsGL\Debug\SDL.dll
+C:\Source\Farseer Engine\Farseer Physics Engine 3.3.1 Samples XNA\Farseer Samples MonoGame\bin\WindowsGL\Debug\Farseer Samples MonoGame.exe.config
+C:\Source\Farseer Engine\Farseer Physics Engine 3.3.1 Samples XNA\Farseer Samples MonoGame\bin\WindowsGL\Debug\Farseer Samples MonoGame.exe
+C:\Source\Farseer Engine\Farseer Physics Engine 3.3.1 Samples XNA\Farseer Samples MonoGame\bin\WindowsGL\Debug\Farseer Samples MonoGame.pdb
+C:\Source\Farseer Engine\Farseer Physics Engine 3.3.1 Samples XNA\Farseer Samples MonoGame\bin\WindowsGL\Debug\Farseer Physics MonoGame.dll
+C:\Source\Farseer Engine\Farseer Physics Engine 3.3.1 Samples XNA\Farseer Samples MonoGame\bin\WindowsGL\Debug\MonoGame.Framework.dll
+C:\Source\Farseer Engine\Farseer Physics Engine 3.3.1 Samples XNA\Farseer Samples MonoGame\bin\WindowsGL\Debug\OpenTK.dll
+C:\Source\Farseer Engine\Farseer Physics Engine 3.3.1 Samples XNA\Farseer Samples MonoGame\bin\WindowsGL\Debug\Tao.Sdl.dll
+C:\Source\Farseer Engine\Farseer Physics Engine 3.3.1 Samples XNA\Farseer Samples MonoGame\bin\WindowsGL\Debug\Lidgren.Network.dll
+C:\Source\Farseer Engine\Farseer Physics Engine 3.3.1 Samples XNA\Farseer Samples MonoGame\bin\WindowsGL\Debug\Farseer Physics MonoGame.pdb
+C:\Source\Farseer Engine\Farseer Physics Engine 3.3.1 Samples XNA\Farseer Samples MonoGame\obj\x86\Debug\Farseer Samples MonoGame OpenGL.csprojResolveAssemblyReference.cache
+C:\Source\Farseer Engine\Farseer Physics Engine 3.3.1 Samples XNA\Farseer Samples MonoGame\obj\x86\Debug\Farseer Samples MonoGame.exe
+C:\Source\Farseer Engine\Farseer Physics Engine 3.3.1 Samples XNA\Farseer Samples MonoGame\obj\x86\Debug\Farseer Samples MonoGame.pdb
